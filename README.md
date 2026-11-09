@@ -9,7 +9,7 @@ Proyecto desarrollado en el curso Python Intermedio del QLAB PUCP (2026).
 |---|---|
 | Dashboard público | **https://faluna22.github.io/brecha-digital-peru/** |
 | Reel (1080×1920) | [`reel/reel.mp4`](reel/reel.mp4) |
-| Publicación de LinkedIn | _pendiente: se agrega al publicar_ |
+| Publicación de LinkedIn | https://lnkd.in/p/e5VWsQvF |
 
 ![Dashboard: KPIs, mapa y ranking por departamento](docs/assets/img/captura_mapa.jpg)
 
@@ -101,7 +101,7 @@ y cayó a 56 % en 2022.
 
 - Dashboard: https://faluna22.github.io/brecha-digital-peru/
 - Repositorio: https://github.com/FaLuna22/brecha-digital-peru
-- LinkedIn: _pendiente_
+- LinkedIn: https://lnkd.in/p/e5VWsQvF
 
 ## 7. Cómo reproducir
 
